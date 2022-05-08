@@ -3,7 +3,7 @@ homebrew formulae for macOS Mojave
 
 ## available formulae
 
-* ncdu 1.16
+* ncdu 1.17
 
 ## install
 

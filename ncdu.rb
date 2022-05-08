@@ -1,8 +1,8 @@
 class Ncdu < Formula
   desc "NCurses Disk Usage"
   homepage "https://dev.yorhel.nl/ncdu"
-  url "https://dev.yorhel.nl/download/ncdu-1.16.tar.gz"
-  sha256 "2b915752a183fae014b5e5b1f0a135b4b408de7488c716e325217c2513980fd4"
+  url "https://dev.yorhel.nl/download/ncdu-1.17.tar.gz"
+  sha256 "810745a8ed1ab3788c87d3aea4cc1a14edf6ee226f764bcc383e024ba56adbf1"
   license "MIT"
 
   head do
